@@ -1,0 +1,4 @@
+image_url,image_name,body_part,exam_type,desc
+https://github.com/big-bug72/medical-data/blob/main/test/img/1.png,1,胸部,CT,胸部CT横断面截图可见心脏及双肺下部区域
+https://github.com/big-bug72/medical-data/blob/main/test/img/2.png,2,头部,CT,头部冠状位影像可见颅骨轮廓及脑组织结构
+https://github.com/big-bug72/medical-data/blob/main/test/img/3.png,3,脑部,MRI,脑部MRI横断面截图可见双侧脑室及脑实质结构
